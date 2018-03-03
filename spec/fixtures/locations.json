@@ -1,0 +1,168 @@
+{
+  "resultsPage": {
+    "status": "ok",
+    "results": {
+      "location": [
+        {
+          "city": {
+            "lat": 39.998,
+            "lng": -75.1448,
+            "country": {
+              "displayName": "US"
+            },
+            "state": {
+              "displayName": "PA"
+            },
+            "displayName": "Philadelphia"
+          },
+          "metroArea": {
+            "lat": 39.998,
+            "lng": -75.1448,
+            "country": {
+              "displayName": "US"
+            },
+            "uri": "http://www.songkick.com/metro_areas/5202-us-philadelphia?utm_source=11588&utm_medium=partner",
+            "state": {
+              "displayName": "PA"
+            },
+            "displayName": "Philadelphia",
+            "id": 5202
+          }
+        },
+        {
+          "metroArea": {
+            "displayName": "Alexandria Bay",
+            "lat": 44.3334,
+            "country": {
+              "displayName": "US"
+            },
+            "lng": -75.9109,
+            "uri": "http://www.songkick.com/metro_areas/58085-us-alexandria-bay?utm_source=11588&utm_medium=partner",
+            "state": {
+              "displayName": "NY"
+            },
+            "id": 58085
+          },
+          "city": {
+            "displayName": "Philadelphia",
+            "lat": 44.1545045,
+            "country": {
+              "displayName": "US"
+            },
+            "lng": -75.7088238,
+            "state": {
+              "displayName": "NY"
+            }
+          }
+        },
+        {
+          "metroArea": {
+            "state": {
+              "displayName": "MS"
+            },
+            "country": {
+              "displayName": "US"
+            },
+            "lat": 32.771599,
+            "lng": -89.117737,
+            "displayName": "Philadelphia",
+            "uri": "http://www.songkick.com/metro_areas/89066-us-philadelphia?utm_source=11588&utm_medium=partner",
+            "id": 89066
+          },
+          "city": {
+            "state": {
+              "displayName": "MS"
+            },
+            "country": {
+              "displayName": "US"
+            },
+            "lat": 32.771599,
+            "lng": -89.117737,
+            "displayName": "Philadelphia"
+          }
+        },
+        {
+          "metroArea": {
+            "state": {
+              "displayName": "OH"
+            },
+            "country": {
+              "displayName": "US"
+            },
+            "lat": 40.489761,
+            "lng": -81.446388,
+            "displayName": "New Philadelphia",
+            "uri": "http://www.songkick.com/metro_areas/57991-us-new-philadelphia?utm_source=11588&utm_medium=partner",
+            "id": 57991
+          },
+          "city": {
+            "state": {
+              "displayName": "OH"
+            },
+            "country": {
+              "displayName": "US"
+            },
+            "lat": 40.489761,
+            "lng": -81.446388,
+            "displayName": "New Philadelphia"
+          }
+        },
+        {
+          "metroArea": {
+            "state": {
+              "displayName": "CO"
+            },
+            "country": {
+              "displayName": "US"
+            },
+            "lat": 38.997921,
+            "lng": -105.550957,
+            "displayName": "Philadelphia",
+            "uri": "http://www.songkick.com/metro_areas/89051-us-philadelphia?utm_source=11588&utm_medium=partner",
+            "id": 89051
+          },
+          "city": {
+            "state": {
+              "displayName": "CO"
+            },
+            "country": {
+              "displayName": "US"
+            },
+            "lat": 38.997921,
+            "lng": -105.550957,
+            "displayName": "Philadelphia"
+          }
+        },
+        {
+          "metroArea": {
+            "state": {
+              "displayName": "NC"
+            },
+            "country": {
+              "displayName": "US"
+            },
+            "lat": 34.953011,
+            "lng": -79.728142,
+            "displayName": "Philadelphia",
+            "uri": "http://www.songkick.com/metro_areas/89071-us-philadelphia?utm_source=11588&utm_medium=partner",
+            "id": 89071
+          },
+          "city": {
+            "state": {
+              "displayName": "NC"
+            },
+            "country": {
+              "displayName": "US"
+            },
+            "lat": 34.953011,
+            "lng": -79.728142,
+            "displayName": "Philadelphia"
+          }
+        }
+      ]
+    },
+    "perPage": 50,
+    "page": 1,
+    "totalEntries": 6
+  }
+}
